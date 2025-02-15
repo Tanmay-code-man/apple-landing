@@ -1,6 +1,6 @@
 import React from 'react'
 import './Hero.css';
-import Bigcard from '../bigCard/bigCard';
+import Bigcard from '../BigCard/BigCard';
 function Hero() {
   return (
     <section className='h-[calc(100vh] w-full relative'>
